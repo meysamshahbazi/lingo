@@ -1,0 +1,132 @@
+abandon 1 calculate 19 defraud 6 exhaust 27
+abide 37 campus 5 dejected 38 exhibit 23
+abolish 12 cancel 39 deliberate 37 expand 15
+abroad 25 candidate 34 delinquent 22 expensive 3
+absorb 19 capacity 16 denounce 7 explore 5
+absurd 11 capsule 7 dense 4 expose 42
+abundant 19 captive 20 depart 39 extract 23
+abuse 33 casual 15 depict 30
+accurate 16 cautious 16 deprive 22 famine 13
+acknowledge 22 cease 27 descend 4 feeble 27
+addict 17 censor 28 despite 27 feminine 10
+adequate 12 century 9 detect 6 fertile 31
+adolescent 34 challenge 9 detest 24 fiction 11
+alter 15 charity 38 detour 21 fierce 24
+amateur 8 chiropractor 40 devise 3 final 29
+ambush 20 cinema 35 devour 20 finance 35
+amend 42 circulate 4 dilemma 21 flee 32
+annual 3 clergy 39 diminish 32 flexible 10
+anticipate 21 client 6 disaster 28 forbid 23
+apologize 32 coeducational 34 discard 35 fortunate 15
+appeal 17 coincide 39 disclose 28 fragile 20
+appoint 30 collapse 25 dismal 2 frank 12
+approach 6 colleague 32 dispute 31 frequent 11
+appropriate 19 collide 21 disrupt 27 frigid 2
+architect 25 commence 13 distress 32 fugitive 25
+assemble 5 commend 29 document 9
+attract 30 commuter 31 doubt 16 gallant 1
+audible 12 compel 26 drastic 42 glance 18
+authority 24 compete 10 dread 10 gleam 13
+avoid 17 complacent 41 drench 38 glimpse 11
+aware 17 comprehend 29 drought 37 gloomy 7
+awesome 26 comprehensive 6 duplicate 14 grateful 16
+awkward 26 conceal 2 dwindle 37 guide 26
+conclude 9
+bachelor 1 confident 16 economical 18 hardship 1
+baffle 21 confine 31 editor 13 harmony 36
+baggage 25 confirm 21 elevate 35 harsh 17
+bait 28 conflict 11 eliminate 4 harvest 19
+ballot 42 consent 7 embrace 23 hasty 36
+ban 19 consider 24 emerge 20 hazy 13
+beckon 26 contagious 39 employee 6 heed 37
+beneficiary 22 corpse 2 encourage 24 heir 37
+betray 26 crafty 20 endure 42 hesitate 11
+bewildered 14 culprit 28 enormous 4 hinder 33
+bigamy 25 customary 39 envy 25 homicide 22
+biography 38 epidemic 40 horrid 18
+blend 3 data 1 essential 3 humid 4
+blunder 29 daze 29 estimate 19
+brawl 14 debate 5 evade 5 identify 13
+brutal 14 debtor 39 event 35 idle 31
+budget 18 decade 11 evidence 11 idol 31
+bulky 8 deceive 6 exaggerate 8 ignite 12
+burden 5 decrease 12 excel 10 ignore 9
+defect 6 excessive 28 illegal 36
+calamity 25 defiant 20 exempt 29 illustrate 28
+indifference 41 m u m ble 33 preserve 7 sensitive 34
+ingenious 1 8 m unicipal 40 p rior 23 severity 27
+inhabit 2 m ute 33 p robe 5 sh riek 2
+innovative 1 5 mythology 3 2 proceed 2 3 s h rill 33
+insist 28 p rohibit 1 2 signify 32
+narcotic 36 p rominent 8 sinister 2
+j agged 20 negative 40 p romote 28 site 30
+jealous 1 neglect 6 p rompt 3 6 ski m 3 4
+jeopardize 40 neutral 24 p rosecute 2 5 slender 1 6
+jest 3 1 n i m ble 1 8 p rosper 20 sneer 24
+jolly 33 nom inate 41 p rovide 32 snu b 42
+journalist 1 3 nourish 1 7 pursue 1 5 soar 3 5
+j ustice 2 2 novel 30 sol itary 1 1
+j uvenile 28 numb 2 q ualify 1 soothe 36
+numerous 1 0 quantity 1 7 sou rce 9
+keen 1 quarter 30 spontaneous 34
+keg 1 7 oath 1 quench 2 6 spouse 22
+kneel 38 obed ient 38 quota 1 9 squander 25
+obesity 40 quote 30 stationary 35
+lack 9 observant 1 3 su bseq uent 3 5
+lectu re 33 obstacle 40 rad ical 34 su bside 29
+legend 42 obtain 35 rage 9 s u m m it 37
+legi ble 39 obvious 8 rapid 27 su rpass 1 6
+l inger 20 occupant 30 rarely 23 su rplus 3 7
+logical 23 opponent 1 4 rash 27 su rvive 8
+lottery 3 5 opt 1 7 rave 1 8 swarm 38
+loyalty 32 oral 40 recede 3 8 sym bol 24
+lu bricate 1 8 outlaw 28 recent 1 1 sympathetic 36
+lunatic 3 1 reckless 1 8
+pacify 26 recl ine 2 tact 1
+magnify 40 panic 1 9 redeem 3 6 talent 3
+maim 29 parole 41 refer 32 tem perate 34
+m aintain 42 partial 23 reform 5 tem pest 3 6
+majestic 3 7 patriotic 3 1 refrain 3 6 tempt 2
+m ajority 5 pauper 2 5 rehabilitate 4 1 tendency 1 0
+m anipulate 1 8 pedestrian 1 8 reject 22 theory 4
+mascu l ine 1 0 penal ize 2 2 relate 3 5 thorough 6
+massive 7 penetrate 1 6 rel i eve 2 1 th reat 1 9
+matri mony 2 5 pension 40 relu ctant 8 th rifty 2 7
+matu re 1 5 peri l 2 repetition 29 th rust 1 4
+maxi m u m 3 2 perish 20 reptile 23 toi l 2 9
+med iocre 8 persist 1 3 resent 7 topic 5
+m enace 1 0 persuade 3 resign 42 torment 32
+merit 2 1 pierce 1 6 resist 9 torrent 7
+microscope 1 6 pioneer 1 5 respond 2 6 trad ition 5
+m igrate 1 3 placard 3 9 resume 3 6 tragedy 1 8
+miniatu re 9 plea 2 1 retain 33 traitor 3 7
+m i n i m u m 3 pledge 1 5 reveal 1 2 transmit 2 1
+m inority 1 1 pollute 1 2 revise 1 5 transparent 3 9
+m iserly 2 7 ponder 42 revive 1 3 trifle 24
+m i sfortune 1 7 popular 6 rival 1 4 tum ult 38
+molest 7 population 1 2 roam 30 typical 3
+monarch 2 7 possi ble 2 6 rural 5 tyrant 38
+morality 30 postpone 7
+morgue 41 potential 41 sacred 1 5 unaccustomed 1
+morsel 1 9 precaution 23 scald 3 9 unan i mous 1 5
+mortal 30 precede 34 scarce 3 undeniable 9
+mount 1 0 pred ict 4 scorch 3 6 underdog 1 4
+mourn 2 9 prejud ice 3 3 scowl 24 underesti mate 1 0
+mu ltitude 41 preoccup ied 41 security 8 und ernou rished 28
+undoubtedly 6 vacant 1 vermin 24 wad 33
+unearth 39 vaccinate 34 verse 30 wager 2
+uneasy 19 vague 35 vertical 41 wail 24
+uneventful 31 vain 29 vessel 13 warden 22
+unforeseen 7 valiant 23 vicinity 9 wary 17
+unify 37 valid 8 vicious 14 wasp 41
+unique 7 valor 31 victorious 10 weary 21
+unite 27 vandal 37 vigor 20 weird 8
+unruly 14 vanish 4 villain 4 wharf 42
+unstable 22 vapor 4 violent 14 whirling 14
+untidy 34 variety 8 visible 3 wholesale 3
+upholstery 41 vast 16 vision 11 witty 33
+urban 12 vein 31 vital 40 wobble 38
+urgent 12 ventilate 40 vocation 22 wrath 42
+utensil 34 venture 26 volunteer 33 wretched 17
+utilize 4 verdict 38 vulnerable 32
+utter 26 verify 2
